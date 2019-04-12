@@ -1,0 +1,34 @@
+.block4{
+    background-color: rgb(245, 243, 239);
+  }
+
+
+.text1{
+    text-align: center;
+    color: red;
+    padding-top: 10%;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.test2{
+    text-align: center;
+    color: rgb(51, 50, 50);
+  }
+
+.deux-boutton{
+    margin-top: 5% !important;
+    margin-left: 10% !important;
+  }
+
+.btnrouge3{
+    height: 60px;
+    width: 20%;
+    color:white;
+    margin-left: 35%;
+    margin-top: 4%;
+    padding-top: 11px;
+    padding-left: 90px !important;
+    background-image: url('../../assets/bouttonR1.png');
+    background-repeat: no-repeat;
+  }

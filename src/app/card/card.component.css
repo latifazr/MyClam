@@ -1,0 +1,37 @@
+.text1{
+    text-align: center;
+    color: red;
+    padding-top: 10%;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.image_bok{
+    margin-top: 12%;
+    margin-left: 15% !important;
+  }
+
+.block-card{
+    width:140px;
+    height:80px;
+    border: none !important;
+    text-align: center !important;
+  }
+
+  .block-image{
+    width:40% !important; 
+    margin-left: 22%;
+  }
+
+  .btnrouge2{
+    background-image: url(../../assets/bouttonR1.png);
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 20%;
+    color:white;
+    margin-left: 40%;
+    margin-top: 20%;
+    margin-bottom: 7%;
+    padding-top: 11px;
+    padding-left: 90px !important;
+  }

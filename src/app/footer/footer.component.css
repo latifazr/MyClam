@@ -1,0 +1,42 @@
+.text-block5{
+    text-align: center;
+    margin-top: 7%;
+    color : white;
+  }
+
+  .email{
+    margin-top: 7%;
+    margin-left: 5% !important;
+  }
+
+  .image-mail{
+    background-image: url(../../assets/email.png);
+    background-repeat: no-repeat;
+    color: black;
+    margin-left: 18%;
+    text-align: center !important;
+    width: 18%;
+    height: 70px;
+    padding-top: 16px;
+  }
+
+  .send{
+    background-image: url(../../assets/send.png);
+    background-repeat: no-repeat;
+    color: white;
+    width: 18%;
+    height: 70px;
+    padding-top: 16px;
+    padding-left: 80px !important;
+  }
+
+  .nab{
+    color: white;
+    size:40%;
+    margin-top: 5%;
+  }
+
+  .pos-icon{
+    margin-left: 48%;
+    margin-top: 1.5%;
+  }

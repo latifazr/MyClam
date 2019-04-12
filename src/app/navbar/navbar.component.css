@@ -1,0 +1,29 @@
+
+.pos_titre{
+  margin-top: 1%;
+}
+.test {
+    text-align: center;
+    margin-top: 25%;
+    color: white;
+}
+.bg{
+    background-image: url(./../../assets/home2.png)
+}
+
+.text_btn{
+    background-image: url(./../../assets/boutton.png);
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 20%;
+    color:white;
+    margin-left: 41%;
+    margin-top: 5%;
+    padding-left: 90px !important;
+    padding-top: 11px;
+}
+
+.sourie{
+    margin-left: 49%;
+    margin-bottom: 0.5%;
+}
